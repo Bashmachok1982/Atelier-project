@@ -332,6 +332,7 @@ button {
   line-height: 2.36364;
   color: #aca592;
   text-transform: none;
+  text-align: start;
 }
 .instagram {
   background: #181511;
